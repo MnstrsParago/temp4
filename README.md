@@ -1,5 +1,5 @@
 # Global AI Jobs (2020–2026)
-Subject: SDS (Statistics and Data Science) / Hypothesis Testing + Regression Analysis
+Subject: SDS (Statistics and Data Science) / Hypothesis Testing + Regression Analysis  
 Name: Abdanur
 
 ## 📌 Project Description
